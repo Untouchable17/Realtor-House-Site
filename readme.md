@@ -3,9 +3,11 @@
 
 #### Инструменты разработки:
 
-React
-Django
-Rest API
+<ul>
+  <li>React</li>
+  <li>Django</li>
+  <li>Rest API</li>
+</ul>
 
 ### Установка 
 
